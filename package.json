@@ -8,9 +8,18 @@
     "sass-compile": "sass stylesheets/sass/index.scss stylesheets/css/index.css ",
     "sass-watch": "sass --watch stylesheets/sass:stylesheets/css --no-source-map"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisPUIG/repaso-1.git"
+  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "sass": "^1.49.0"
-  }
+  "bugs": {
+    "url": "https://github.com/AlexisPUIG/repaso-1.git"
+  },
+    "homepage": "https://github.com/AlexisPUIG/repaso-1.git",
+    "devDependencies": {
+      "sass": "^1.48.0"
+    }
+
 }
